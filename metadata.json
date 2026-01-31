@@ -1,0 +1,7 @@
+{
+  "name": "RescueLine AI Triage",
+  "description": "A multilingual, offline-first emergency triage chat assistant designed for disaster zones. It uses rule-based logic and Gemini AI to prioritize patients (Critical, Urgent, Stable) and provide immediate first-aid guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
