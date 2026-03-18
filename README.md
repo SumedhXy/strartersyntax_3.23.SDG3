@@ -1,9 +1,4 @@
 
- https://ai.studio/apps/drive/18Kz2TkUtcS0bD10mrAXONvrouzgzAePx
-
-## Run Locally
-
-**Prerequisites:**  Node.js
 
 
 1. Install dependencies:
